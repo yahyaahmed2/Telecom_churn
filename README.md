@@ -12,7 +12,7 @@ Machine learning application predicting customer churn in telecom company using 
 **Imbalanced dataset**:The churn was very imbalanced with No churn having much more values available than Churn so I used SMOTE(Synthetic minority Over-Sampling TEqnique) to balance the dataset.
 
 # Technical Details
-- **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, 'seaborn'
+- **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 - **Algorithm**: Logistic Regression, SMOTE
 
 # Dataset used
